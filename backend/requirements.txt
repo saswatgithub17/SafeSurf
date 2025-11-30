@@ -1,0 +1,9 @@
+To Run:
+pip install flask flask-cors scikit-learn pandas
+
+phishing links 
+https://example.com/verify-account-unsafe-login
+https://example.com/security-alert-phishing-attempt
+https://example.com/reset-password-unsafe-link
+https://example.com/urgent-action-required-phishing
+https://example.com/your-account-locked-unsafe-verify
